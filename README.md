@@ -1,7 +1,7 @@
 # Filtering-Service
 An http server for filtering and storing input data
 
-Run the following command to start server.
+Run the following command to start servece:
 ```py
 python server.py
 ```
